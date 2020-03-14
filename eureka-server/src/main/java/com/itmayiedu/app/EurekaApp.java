@@ -13,6 +13,7 @@ public class EurekaApp {
 		System.out.print("11111115555511111133333");
 		System.out.print("1--");
 		System.out.print("1--dev");
+		System.out.print("1--01");
 		System.out.print("1--02");
 	}
 
