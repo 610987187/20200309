@@ -15,6 +15,7 @@ public class EurekaApp {
 		System.out.print("1--dev");
 		System.out.print("1--01");
 		System.out.print("1--02");
+		System.out.print("1--03");
 	}
 
 }
